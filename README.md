@@ -39,7 +39,7 @@ Function_4 = player_choice
 | Required      | Name             | Type     |
 | ------------- |------------------| ---------|
 | Dataset_1     | Defence rankings | Data     |
-| Dataset_2     | Fixture list     | Data     |
+| NFL_Fixtures.csv     | Fixture list     | Data     |
 | Dataset_3     | Players set      | Data     |
 | Function_1    | find_team        | function |
 | Function_2    | find_position    | function |
