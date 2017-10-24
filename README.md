@@ -47,7 +47,8 @@ Function_4 = player_choice
 | Function_4    | player_choice    | function |
 
 
-
+The final script will be written as `final_script.py`. This can then be published with a GUI or WebApp interface.
+Initially however this will be a simple command line python script.
 
 
 Still to do:
